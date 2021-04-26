@@ -1,7 +1,7 @@
 # Caligraph
 Caligraph analysis in clickhouse
 
-Clickhouse allows to keep and perform analysis of 300 mln Caligraph triplets on ordinary computer.
+Clickhouse allows to upload and perform analysis of 300 mln Caligraph triplets on ordinary computer.
 
 Environment:
 <ul>HW:
