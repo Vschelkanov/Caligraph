@@ -6,7 +6,7 @@ Clickhouse allows to upload and perform analysis of 300 mln Caligraph triplets o
 Environment:
 <ul>HW:
   <li>Intel(R) Core(TM) i5 CPU 750@2.67GHz
-  <li>RAM 15 GB
+  <li>RAM 12 GB
  </ul>
 
 <ul> SW:
