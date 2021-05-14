@@ -17,3 +17,13 @@ Environment:
 <li>Clickhouse-server 21.4.5
 <li>Python 3.7.2rcl
   </ul>
+
+
+Steps:
+<ul> 
+  <li> Download and unzip <a href="http://caligraph.org/resources.html"> Caligraph data </a>
+  <li> Install Clickhouse server locally - <a href="https://www.digitalocean.com/community/tutorial_collections/how-to-install-and-use-clickhouse">good guide</a>
+  <li> <a href="https://github.com/Vschelkanov/Caligraph/blob/main/kg_create_table.ipynb">kg_create_table.ipynb:</a> Create table for Caligraph trpilets
+  <li> <a href="https://github.com/Vschelkanov/Caligraph/blob/main/kg_upload_data.ipynb">kg_upload_data.ipynb:</a>> Upload data from Caligraph .nt files to Clickhouse table
+    <li> <a href="https://github.com/Vschelkanov/Caligraph/blob/main/kg_explore_data.ipynb">kg_explore_data.ipynb:</a> Make a breif graph data exploration
+  </ul>
